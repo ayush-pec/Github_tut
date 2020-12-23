@@ -1,0 +1,6 @@
+secrets.txt
+
+
+#This is my comment.
+
+#  *.txt -> means all files having .txt as extension will be ignored
